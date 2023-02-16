@@ -1,7 +1,7 @@
 # the-resurrection-of-Jurij-Gagarin
 The resurrection of Jurij Gagarin - Text Adventure Game With ChatGPT
 
-![Gagarin-queer](https://github.com/taleo/the-resurrection-of-Jurij-Gagarin/taleo_a_queer_transsexual_Soviet_astronaut_sitting_in_a_Soviet__083857fe-dca8-4c88-a3f0-e86746f5323d.png)
+!(https://github.com/taleo/the-resurrection-of-Jurij-Gagarin/taleo_a_queer_transsexual_Soviet_astronaut_sitting_in_a_Soviet__083857fe-dca8-4c88-a3f0-e86746f5323d.png)
 
 Jurij Gagarin is alive, and you can play with him/her!
 Just copy and paste the text in https://chat.openai.com/chat to play an astro-queer-espionage Text Adventure Game.
