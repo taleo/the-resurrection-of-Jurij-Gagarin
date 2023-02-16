@@ -4,7 +4,7 @@
 ![https://github.com/taleo/the-resurrection-of-Jurij-Gagarin/taleo_a_queer_transsexual_Soviet_astronaut_sitting_in_a_Soviet__083857fe-dca8-4c88-a3f0-e86746f5323d.png](https://github.com/taleo/the-resurrection-of-Jurij-Gagarin/blob/99e41ece02a543508825bd86eb876ae57e6f0ff8/taleo_a_queer_transsexual_Soviet_astronaut_sitting_in_a_Soviet__083857fe-dca8-4c88-a3f0-e86746f5323d.png)
 
 Jurij Gagarin is alive, and you can play with him/her!
-Just copy and paste the text in https://chat.openai.com/chat to play an astro-queer-espionage Text Adventure Game.
+Just copy and paste the prompt in https://chat.openai.com/chat to play an astro-queer-espionage Text Adventure Game.
 
 Soviet Union, 1968. A woman is admitted to an asylum, found in a state of confusion. She tells an absurd story: she claims to be Jurij Gagarin, the first man to fly in space. Everyone thinks he died in a plane crash under mysterious circumstances. In reality, Gagarin was killed by the American secret service: they had discovered that the Russian officer was actually Jesus Christ, reincarnated in the ranks of the hated Soviets. Resurrected after three days in the guise of a woman, he is intercepted by KGB agents, who, unable to admit the existence of the divine, try in turn to get rid of him. 
 
